@@ -1,3 +1,7 @@
 body {
-    color: red;
+    background-color: darkslategrey;
+    color: white;
+    align-items: center;
+    margin: auto;
 }
+
